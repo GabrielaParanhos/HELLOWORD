@@ -1,9 +1,21 @@
 header{
-    color: yellow;
+    color: rgb(58, 58, 23);
+    border-bottom: 1px solid grey;
+    
 
 }
 
 body{
-    background: black;
+    background: rgb(168, 164, 199);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
     
+}
+
+footer{
+    border-top: 1px solid grey ;
+}
+
+#nome-usuário{
+    font-weight: bold;
 }
